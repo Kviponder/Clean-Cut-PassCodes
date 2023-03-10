@@ -27,9 +27,9 @@
 
 ### Screenshots of Functions:
 ![Image 1](assets/Screenshots/Image1.png)
-![Image 2](assets/Screenshots/Image1.png)
-![Image 3](assets/Screenshots/Image1.png)
-![Image 4](assets/Screenshots/Image1.png)
-![Image 5](assets/Screenshots/Image1.png)
-![Image 6](assets/Screenshots/Image1.png)
-![Image 7](assets/Screenshots/Image1.png)
+![Image 2](assets/Screenshots/Image2.png)
+![Image 3](assets/Screenshots/Image3.png)
+![Image 4](assets/Screenshots/Image4.png)
+![Image 5](assets/Screenshots/Image5.png)
+![Image 6](assets/Screenshots/Image6.png)
+![Image 7](assets/Screenshots/Image7.png)
