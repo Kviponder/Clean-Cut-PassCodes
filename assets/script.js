@@ -1,5 +1,5 @@
 // Assignment Code
-
+// Created character sets ie: charSetsto contain all possible character for password 
 var lowercaseChar = "abcdefghijklmnopqrstuvwxyz";
 var uppercaseChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numbersChar = "0123456789";
@@ -9,7 +9,7 @@ var generateBtn = document.querySelector("#generate");
 
 // Build character set based on user input
 function generatePassword() {
-
+//These prompts appear as a small yes/cancel option to let the user decide which character to include in password
   let length = prompt(
     "How long do you want your password to be? (8-128 characters)"
   );
@@ -67,7 +67,7 @@ function writePassword() {
 }
 
 // Add event listener to generate button
-
+//Had to make generateBtn not use null as its reference
 if (generateBtn !== null) {
   generateBtn.addEventListener("click", writePassword)
 }
