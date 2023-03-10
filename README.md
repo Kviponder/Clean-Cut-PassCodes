@@ -22,5 +22,14 @@
     The script.js file is linked to the HTML file using the src attribute in the script tag. The HTML file contains an ID selector for the "Generate Password" button and the "Your Secure Password" text area, which are used to connect the JavaScript and HTML files.
 
 ### HTML File
-    
+
     The HTML file for this application contains a title, a header, a card with a text area and a button, and a link to the CSS file. The "Generate Password" button has an ID selector of generate, which is used to connect the JavaScript and HTML files. The text area where the password is displayed has an ID selector of password, which is used by the writePassword() function to ensure that the password is displayed in the text area.
+
+### Screenshots of Functions:
+![Image 1](assets/Screenshots/Image1.png)
+![Image 2](assets/Screenshots/Image1.png)
+![Image 3](assets/Screenshots/Image1.png)
+![Image 4](assets/Screenshots/Image1.png)
+![Image 5](assets/Screenshots/Image1.png)
+![Image 6](assets/Screenshots/Image1.png)
+![Image 7](assets/Screenshots/Image1.png)
